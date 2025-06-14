@@ -1,0 +1,9 @@
+{
+  "prefix": "/",
+  "rcon_host": "127.0.0.1",
+  "rcon_port": 25575,
+  "rcon_password": "yourStrongPassword",
+  "owner_id": "YOUR_DISCORD_ID",
+  "admin_roles": ["Admin", "Moderator"],
+  "queue_file": "command_queue.txt"
+}
