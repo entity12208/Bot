@@ -5,6 +5,9 @@ from discord.ext import commands
 from dotenv import load_dotenv
 from mcrcon import MCRcon
 import asyncio
+from keep_alive import keep_alive
+keep_alive()
+
 
 load_dotenv()
 
